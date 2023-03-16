@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 914835ddf822c124bb5b03a97100981e
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Android Scratch
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 0cf5c4e4068a6044bb17feccf5f76917, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

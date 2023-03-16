@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: a90ea29d1ea834b4c83922806a9ed89a
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Android Hollow
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: 4858fee686b532044859492fe8eda2a9, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
